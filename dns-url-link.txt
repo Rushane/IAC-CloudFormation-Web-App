@@ -1,0 +1,1 @@
+The load balancer DNS name link - http://serve-webap-1xn2vvwx0eqrs-2071667956.us-west-2.elb.amazonaws.com/
